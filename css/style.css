@@ -72,3 +72,8 @@ header a:hover {
 #links {
   margin-bottom: 20px;
 }
+
+#links img {
+  border: 5px #ccc solid;
+  padding-left: 1px;
+}
