@@ -17,4 +17,8 @@ body {
 	padding: 0 45px 20px;
 }
 
+* {
+  background: green;
+}
+
 /* Write all remaining styles here */
