@@ -42,3 +42,7 @@ p {
   font-size: 1em;
   margin-left: 0 0 20px 0;
 }
+
+.footer {
+  float: right;
+}
