@@ -31,3 +31,8 @@ h1 {
 	font-family: 'Baskerville', serif;
 	border-bottom: 1px solid #ccc;
 }
+
+h2 {
+  color: grey;
+  font-size: 10px;
+}
